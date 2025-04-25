@@ -6,6 +6,8 @@ restaurante_praca = Restaurante('Brasileirinho', 'Marmita')
 
 nova_bebida = Bebida('Suco de limão', 5.0, 'Médio')
 prato = Prato('Aligot', 150.0, 'Pure de batatas com queijo')
+restaurante_praca.adicionar_bebida(nova_bebida)
+restaurante_praca.adicionar_prato(prato)
 
 
 
