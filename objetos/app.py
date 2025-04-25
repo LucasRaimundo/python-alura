@@ -12,7 +12,7 @@ restaurante_praca.adicionar_no_cardapio(prato)
 
 
 def main():
-    print(nova_bebida)
+    restaurante_praca.exibir_cardapio
     
 
 
